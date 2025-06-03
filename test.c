@@ -1,4 +1,5 @@
 
+
 struct gpioled_dev{
 	dev_t devid;    //设备号
 	struct cdev cdev; //cdev
